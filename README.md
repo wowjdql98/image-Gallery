@@ -1,6 +1,7 @@
 # image-Gallery
 이미지갤러리 구현데모
 https://wowjdql98.github.io/image-Gallery/
+
 ##기능소개
 -하단의 썸네일 이미지를 클릭하면 메인이미지가 변경되는 간단한 갤러리
 
